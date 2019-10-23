@@ -1,1 +1,1 @@
-Answer: In 1959 Arthur Samuel defined machine learning as "Field of study that gives computers the ability to learn without being explicitly programmed".He proved concepts of ML using a checker game.
+Answer 1: In 1959 Arthur Samuel defined machine learning as "Field of study that gives computers the ability to learn without being explicitly programmed".He proved concepts of ML using a checker game.
